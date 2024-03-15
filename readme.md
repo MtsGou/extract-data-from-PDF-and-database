@@ -1,0 +1,1 @@
+Codes in python to extract data (tables) from PDF and ETL pipeline to extract, select, transform and export specific data from postgres database/DW, establishing connection with postgres.
